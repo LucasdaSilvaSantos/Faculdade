@@ -34,7 +34,7 @@ int main()
         DiasFuturos=DiasFuturos*365 + AnoBissexto;
 
 
-        printf("\nDias vividos até o ano futuro: %d", DiasFuturos);
+        printf("\nDias vividos atÃ© o ano futuro: %d", DiasFuturos);
 
         AnoBissexto=0;
         printf("\nInforme o nome de outra pessoa: ");
